@@ -1,0 +1,10 @@
+CamMesh is a simple Processing sketch that captures realtime video from the webcam and tries to reconstruct the image with a mesh.
+
+A video of a previous version is available here:
+http://vimeo.com/8297993
+
+It depends on the Mesh library, by Lee Byron:
+http://leebyron.com/else/mesh/
+
+For more about Processing:
+http://processing.org/
